@@ -15,12 +15,11 @@ GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  This is something!
 page_title:
-  "🪴 Quartz 3.3"
+  "DAEDALIST"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/frsophronios
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/anaxios
