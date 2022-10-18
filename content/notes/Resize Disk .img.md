@@ -3,7 +3,6 @@ title: "Resize Disk .img"
 tags:
 - 
 weight: 0
-draft: false
 ---
 ### Shrinking images on Linux
 
