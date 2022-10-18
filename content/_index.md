@@ -27,11 +27,11 @@ enableToc: false
 The purpose of daedalist.net is mainly to keep personal technical documentation and references.
 
 # Tutorials
-[Resize_Disk_img](Resize_Disk_img.md) # markdown 
-[Resize_Disk_img](notes/Resize_Disk_img.md) markdown relative
-[[notes/Resize_Disk_img]] # wiki relative
+- [[notes/Resize_Disk_img|Resize Disk .img]] # not my work just for testing
+
 # How-To Guides
-write how-to guides
-[test page](test%20page.md)
+- 
 # Explanation
+- 
 # Reference Guides
+- 
