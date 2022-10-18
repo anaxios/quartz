@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e907b2f0608c86a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "10f6ef612c02e08f",
+  "active": "8e907b2f0608c86a",
   "lastOpenFiles": [
-    "content/templates/post.md",
+    "content/notes/Resize Disk .img.md",
     "content/_index.md",
+    "content/templates/post.md",
     "content/notes/Too Tired for This.md",
     "content/notes/images/github-actions.png",
     "content/notes/updating.md",
     "content/notes/callouts.md",
     "content/notes/config.md",
     "content/notes/editing.md",
-    "content/notes/preview changes.md",
-    "content/notes/search.md"
+    "content/notes/preview changes.md"
   ]
 }
