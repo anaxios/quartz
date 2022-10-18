@@ -11,9 +11,11 @@
             "id": "10f6ef612c02e08f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/notes/images/github-actions.png"
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/images/github-actions.png",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/images/github-actions.png",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/images/github-actions.png"
+                "file": "content/_index.md"
               }
             }
           }
@@ -137,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fd698aa573087da0",
+  "active": "10f6ef612c02e08f",
   "lastOpenFiles": [
+    "content/notes/Too Tired for This.md",
+    "content/notes/images/github-actions.png",
+    "content/notes/updating.md",
     "content/notes/callouts.md",
     "content/templates/post.md",
     "content/notes/config.md",
     "content/notes/editing.md",
     "content/notes/preview changes.md",
     "content/notes/search.md",
-    "content/notes/setup.md",
-    "content/notes/custom Domain.md",
-    "content/notes/philosophy.md",
-    "content/_index.md"
+    "content/notes/setup.md"
   ]
 }
