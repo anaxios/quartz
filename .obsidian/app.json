@@ -6,5 +6,6 @@
   "newFileFolderPath": "content/notes",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "content/notes/images",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
