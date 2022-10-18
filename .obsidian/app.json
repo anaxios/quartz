@@ -5,5 +5,5 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/notes",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": ""
+  "attachmentFolderPath": "static"
 }
