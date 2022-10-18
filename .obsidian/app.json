@@ -1,1 +1,9 @@
-{}
+{
+  "spellcheck": true,
+  "useTab": false,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/notes",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "content/notes/images"
+}
