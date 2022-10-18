@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/tron virus scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/tron virus scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/tron virus scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/tron virus scan.md"
               }
             }
           }
@@ -166,9 +166,9 @@
   },
   "active": "6f5efbbd9bab0eb3",
   "lastOpenFiles": [
-    "content/notes/Resize_Disk_img.md",
-    "content/notes/ArchTitus - Arch install script.md",
     "content/_index.md",
+    "content/notes/ArchTitus - Arch install script.md",
+    "content/notes/Resize_Disk_img.md",
     "content/notes/test page.md",
     "content/templates/post.md",
     "content/notes/Too Tired for This.md",

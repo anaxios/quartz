@@ -3,6 +3,7 @@ title: "ArchTitus - Arch install script"
 tags:
 - Linux
 - Arch
+- links
 weight: 0
 ---
 

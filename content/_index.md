@@ -34,6 +34,7 @@ The purpose of daedalist.net is mainly to keep personal technical documentation 
 
 # Explanation
 - 
-# Reference Guides
+
+# References
 -  [[ArchTitus - Arch install script]]
-- 
+- [[tron virus scan]]
