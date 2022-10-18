@@ -27,11 +27,13 @@ enableToc: false
 The purpose of daedalist.net is mainly to keep personal technical documentation and references.
 
 # Tutorials
-- [[notes/Resize_Disk_img|Resize Disk .img]] # not my work just for testing
+- 
 
 # How-To Guides
 - 
+
 # Explanation
 - 
 # Reference Guides
+-  [[ArchTitus - Arch install script]]
 - 
