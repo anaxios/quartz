@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Resize Disk .img.md",
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f5efbbd9bab0eb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/test page.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Resize Disk .img.md",
+                "file": "content/notes/test page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Resize Disk .img.md",
+                "file": "content/notes/test page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Resize Disk .img.md"
+                "file": "content/notes/test page.md"
               }
             }
           }
@@ -152,7 +164,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8e907b2f0608c86a",
+  "active": "6f5efbbd9bab0eb3",
   "lastOpenFiles": [
     "content/_index.md",
     "content/notes/Resize Disk .img.md",
