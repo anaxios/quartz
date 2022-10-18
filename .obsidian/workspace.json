@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/config.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/config.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/config.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/config.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -141,7 +141,9 @@
   },
   "active": "10f6ef612c02e08f",
   "lastOpenFiles": [
+    "content/templates/post.md",
     "content/_index.md",
+    "content/notes/config.md",
     "content/notes/CJK + Latex Support (测试).md",
     "content/notes/callouts.md"
   ]
