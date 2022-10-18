@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e907b2f0608c86a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Resize Disk .img.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Resize Disk .img.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Resize Disk .img.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Resize Disk .img.md"
               }
             }
           }
@@ -139,10 +152,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "10f6ef612c02e08f",
+  "active": "8e907b2f0608c86a",
   "lastOpenFiles": [
-    "content/templates/post.md",
     "content/_index.md",
+    "content/templates/post.md",
     "content/notes/Too Tired for This.md",
     "content/notes/images/github-actions.png",
     "content/notes/updating.md",
