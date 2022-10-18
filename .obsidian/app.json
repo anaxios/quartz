@@ -7,6 +7,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "content/notes/images",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "alwaysUpdateLinks": true
 }
