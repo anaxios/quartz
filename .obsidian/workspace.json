@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e480e67769332ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Make swap file Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/tron virus scan.md",
+                "file": "content/notes/Make swap file Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/tron virus scan.md",
+                "file": "content/notes/Make swap file Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/tron virus scan.md"
+                "file": "content/notes/Make swap file Linux.md"
               }
             }
           }
@@ -164,8 +176,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6f5efbbd9bab0eb3",
+  "active": "e480e67769332ae5",
   "lastOpenFiles": [
+    "content/notes/tron virus scan.md",
     "content/_index.md",
     "content/notes/ArchTitus - Arch install script.md",
     "content/notes/Resize_Disk_img.md",
@@ -174,7 +187,6 @@
     "content/notes/Too Tired for This.md",
     "content/notes/images/github-actions.png",
     "content/notes/updating.md",
-    "content/notes/callouts.md",
-    "content/notes/config.md"
+    "content/notes/callouts.md"
   ]
 }
