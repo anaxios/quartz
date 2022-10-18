@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Resize Disk .img.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Resize Disk .img.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Resize Disk .img.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Resize Disk .img.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   },
   "active": "8e907b2f0608c86a",
   "lastOpenFiles": [
+    "content/notes/Resize Disk .img.md",
     "content/_index.md",
     "content/templates/post.md",
     "content/notes/Too Tired for This.md",
@@ -162,7 +163,6 @@
     "content/notes/callouts.md",
     "content/notes/config.md",
     "content/notes/editing.md",
-    "content/notes/preview changes.md",
-    "content/notes/search.md"
+    "content/notes/preview changes.md"
   ]
 }

@@ -27,7 +27,7 @@ enableToc: false
 The purpose of daedalist.net is mainly to keep personal technical documentation and references.
 
 # Tutorials
-write tutorials
+[[Resize Disk .img]]
 # How-To Guides
 write how-to guides
 # Explanation
