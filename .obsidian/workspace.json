@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/test page.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/test page.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/test page.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/test page.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -166,9 +166,9 @@
   },
   "active": "6f5efbbd9bab0eb3",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/notes/test page.md",
-    "content/notes/Resize Disk .img.md",
+    "content/notes/Resize_Disk_img.md",
+    "content/_index.md",
     "content/templates/post.md",
     "content/notes/Too Tired for This.md",
     "content/notes/images/github-actions.png",
