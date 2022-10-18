@@ -37,4 +37,5 @@ The purpose of daedalist.net is mainly to keep personal technical documentation 
 
 # References
 -  [[ArchTitus - Arch install script]]
-- [[tron virus scan]]
+-  [[tron virus scan]]
+- [[Barrier KVM]]
