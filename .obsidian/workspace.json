@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Resize Disk .img.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Resize Disk .img.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Resize Disk .img.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Resize Disk .img.md"
               }
             }
           }
@@ -154,8 +154,8 @@
   },
   "active": "8e907b2f0608c86a",
   "lastOpenFiles": [
-    "content/notes/Resize Disk .img.md",
     "content/_index.md",
+    "content/notes/Resize Disk .img.md",
     "content/templates/post.md",
     "content/notes/Too Tired for This.md",
     "content/notes/images/github-actions.png",
