@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10f6ef612c02e08f",
+            "id": "c207cf533c3b25d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Barrier KVM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8e907b2f0608c86a",
+            "id": "3258ce5a0764789b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f5efbbd9bab0eb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/UEFI XML libvirt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/UEFI XML libvirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/UEFI XML libvirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/UEFI XML libvirt.md"
               }
             }
           }
@@ -164,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6f5efbbd9bab0eb3",
+  "active": "3258ce5a0764789b",
   "lastOpenFiles": [
-    "content/notes/test page.md",
-    "content/notes/Resize_Disk_img.md",
+    "content/notes/Barrier KVM.md",
     "content/_index.md",
+    "content/notes/tron virus scan.md",
+    "content/notes/UEFI XML libvirt.md",
+    "content/notes/Make swap file Linux.md",
+    "content/notes/ArchTitus - Arch install script.md",
+    "content/notes/Resize_Disk_img.md",
+    "content/notes/test page.md",
     "content/templates/post.md",
-    "content/notes/Too Tired for This.md",
-    "content/notes/images/github-actions.png",
-    "content/notes/updating.md",
-    "content/notes/callouts.md",
-    "content/notes/config.md",
-    "content/notes/editing.md"
+    "content/notes/Too Tired for This.md"
   ]
 }
