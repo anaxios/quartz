@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10f6ef612c02e08f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e907b2f0608c86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f5efbbd9bab0eb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/tron virus scan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e480e67769332ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c207cf533c3b25d1",
             "type": "leaf",
             "state": {
@@ -66,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3258ce5a0764789b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/UEFI XML libvirt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Barrier KVM.md",
+                "file": "content/notes/UEFI XML libvirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Barrier KVM.md",
+                "file": "content/notes/UEFI XML libvirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Barrier KVM.md"
+                "file": "content/notes/UEFI XML libvirt.md"
               }
             }
           }
@@ -188,17 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c207cf533c3b25d1",
+  "active": "3258ce5a0764789b",
   "lastOpenFiles": [
+    "content/notes/Barrier KVM.md",
     "content/_index.md",
-    "content/notes/Make swap file Linux.md",
     "content/notes/tron virus scan.md",
+    "content/notes/UEFI XML libvirt.md",
+    "content/notes/Make swap file Linux.md",
     "content/notes/ArchTitus - Arch install script.md",
     "content/notes/Resize_Disk_img.md",
     "content/notes/test page.md",
     "content/templates/post.md",
-    "content/notes/Too Tired for This.md",
-    "content/notes/images/github-actions.png",
-    "content/notes/updating.md"
+    "content/notes/Too Tired for This.md"
   ]
 }
