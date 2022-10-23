@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/UEFI XML libvirt.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 328.5
   },
   "right": {
     "id": "067b16c73a176ef6",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/UEFI XML libvirt.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/UEFI XML libvirt.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/UEFI XML libvirt.md"
+                "file": "CODE_OF_CONDUCT.md"
               }
             }
           }
@@ -154,10 +154,10 @@
   },
   "active": "3258ce5a0764789b",
   "lastOpenFiles": [
+    "content/notes/UEFI XML libvirt.md",
     "content/notes/Barrier KVM.md",
     "content/_index.md",
     "content/notes/tron virus scan.md",
-    "content/notes/UEFI XML libvirt.md",
     "content/notes/Make swap file Linux.md",
     "content/notes/ArchTitus - Arch install script.md",
     "content/notes/Resize_Disk_img.md",
