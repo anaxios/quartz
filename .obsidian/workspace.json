@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Library.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Library.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "d10a34d872cd149d",
   "lastOpenFiles": [
-    "content/notes/Library.md",
     "content/_index.md",
+    "content/notes/Library.md",
     "CODE_OF_CONDUCT.md",
     "content/notes/UEFI XML libvirt.md",
     "content/notes/Barrier KVM.md",
