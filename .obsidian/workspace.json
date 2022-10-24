@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/tron virus scan.md",
+                "file": "content/notes/UEFI XML libvirt.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/tron virus scan.md",
+                "file": "content/notes/UEFI XML libvirt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/tron virus scan.md",
+                "file": "content/notes/UEFI XML libvirt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/tron virus scan.md"
+                "file": "content/notes/UEFI XML libvirt.md"
               }
             }
           }
@@ -178,15 +178,15 @@
   },
   "active": "ee811ae4c013e776",
   "lastOpenFiles": [
+    "content/notes/Make swap file Linux.md",
+    "content/notes/test page.md",
+    "content/notes/tron virus scan.md",
     "content/notes/UEFI XML libvirt.md",
     "content/notes/zentyal.md",
     "content/notes/Library.md",
     "content/_index.md",
     "CODE_OF_CONDUCT.md",
     "content/notes/Barrier KVM.md",
-    "content/notes/tron virus scan.md",
-    "content/notes/Make swap file Linux.md",
-    "content/notes/ArchTitus - Arch install script.md",
-    "content/notes/Resize_Disk_img.md"
+    "content/notes/ArchTitus - Arch install script.md"
   ]
 }
