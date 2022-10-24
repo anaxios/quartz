@@ -1,7 +1,7 @@
 ---
 title: "UEFI XML libvirt"
 tags:
-- 
+- #apps
 weight: 0
 ---
 

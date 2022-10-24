@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee811ae4c013e776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/tron virus scan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Library.md",
+                "file": "content/notes/tron virus scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Library.md",
+                "file": "content/notes/tron virus scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Library.md"
+                "file": "content/notes/tron virus scan.md"
               }
             }
           }
@@ -164,17 +176,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d10a34d872cd149d",
+  "active": "ee811ae4c013e776",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/notes/Library.md",
-    "CODE_OF_CONDUCT.md",
     "content/notes/UEFI XML libvirt.md",
+    "content/notes/zentyal.md",
+    "content/notes/Library.md",
+    "content/_index.md",
+    "CODE_OF_CONDUCT.md",
     "content/notes/Barrier KVM.md",
     "content/notes/tron virus scan.md",
     "content/notes/Make swap file Linux.md",
     "content/notes/ArchTitus - Arch install script.md",
-    "content/notes/Resize_Disk_img.md",
-    "content/notes/test page.md"
+    "content/notes/Resize_Disk_img.md"
   ]
 }
