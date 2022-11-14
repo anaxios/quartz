@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "1674c6aef408b696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Ubuntu Network Manager Enabling and disabling NetworkManager on Ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ee811ae4c013e776",
             "type": "leaf",
             "state": {
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/UEFI XML libvirt.md",
+                "file": "content/notes/Ubuntu Network Manager Enabling and disabling NetworkManager on Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/UEFI XML libvirt.md",
+                "file": "content/notes/Ubuntu Network Manager Enabling and disabling NetworkManager on Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/UEFI XML libvirt.md"
+                "file": "content/notes/Ubuntu Network Manager Enabling and disabling NetworkManager on Ubuntu.md"
               }
             }
           }
@@ -173,18 +185,15 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "ee811ae4c013e776",
+  "active": "1674c6aef408b696",
   "lastOpenFiles": [
+    "content/notes/Library.md",
+    "content/_index.md",
+    "content/notes/UEFI XML libvirt.md",
     "content/notes/Make swap file Linux.md",
     "content/notes/test page.md",
     "content/notes/tron virus scan.md",
-    "content/notes/UEFI XML libvirt.md",
     "content/notes/zentyal.md",
-    "content/notes/Library.md",
-    "content/_index.md",
     "CODE_OF_CONDUCT.md",
     "content/notes/Barrier KVM.md",
     "content/notes/ArchTitus - Arch install script.md"
